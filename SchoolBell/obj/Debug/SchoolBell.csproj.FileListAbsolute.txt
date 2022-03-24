@@ -1,0 +1,15 @@
+E:\My Projects\SchoolBell\SchoolBell\Build\SchoolBell.exe.manifest
+E:\My Projects\SchoolBell\SchoolBell\Build\SchoolBell.application
+E:\My Projects\SchoolBell\SchoolBell\Build\SchoolBell.exe
+E:\My Projects\SchoolBell\SchoolBell\Build\SchoolBell.pdb
+E:\My Projects\SchoolBell\SchoolBell\Build\SchoolBell.exe.CodeAnalysisLog.xml
+E:\My Projects\SchoolBell\SchoolBell\Build\SchoolBell.exe.lastcodeanalysissucceeded
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\ResolveAssemblyReference.cache
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.MainForm.resources
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.Properties.Resources.resources
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.csproj.GenerateResource.Cache
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.TrustInfo.xml
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.exe.manifest
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.application
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.exe
+E:\My Projects\SchoolBell\SchoolBell\obj\Debug\SchoolBell.pdb
